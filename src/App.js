@@ -10,6 +10,8 @@ import Team from "./component/Team"
 import Categories from "./component/Categories"
 import Products from "./component/Products"
 
+// App all routes
+
 function App() {
   return (
     <>
